@@ -1,7 +1,6 @@
 # Taxi_Rideshare_NY
 To run the code locally, please follow these steps:
 
-Below are the steps to run the source code to perform more trials and conduct simulations for all the algorithms:
 The steps to use this API is :
 Download the Java based implementation from the following link:
 https://github.com/graphhopper/graphhopper/blob/0.6/docs/web/quickstart.md
